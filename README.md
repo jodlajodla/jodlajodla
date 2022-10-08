@@ -25,3 +25,4 @@ You're firstly welcome to visit my ...
 
 - Phone: +386 30 741 319
 - Mail: jan@xfy.systems
+- [LinkedIn](https://www.linkedin.com/in/jan-su%C5%A1nik/)
