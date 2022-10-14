@@ -4,7 +4,7 @@ An all-around software engineer with most experience in web development field an
 
 ### Experiences
 
-I am profesionally involved into software engineering and system administration for almost 10 years. During that time I worked on various projects and gathered a lot of knowledge. Technologies that I mostly work with are (in order of actual skill):
+I am professionally involved into software engineering and system administration for almost 10 years. During that time I worked on various projects and gathered a lot of knowledge. Technologies that I mostly work with are (in order of actual skill):
 
 - PHP, Go
 - MySQL, PostgreSQL
